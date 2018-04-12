@@ -24,5 +24,8 @@ public class Honda {
         DataTypeDemo dataTypeDemo = new DataTypeDemo();
         dataTypeDemo.showNumbers();
         dataTypeDemo.displayPlateNumber();
+        System.out.println("==========================================================");
+        MotorBike motorBike = new MotorBike();
+        motorBike.describeBike();
     }
 }
