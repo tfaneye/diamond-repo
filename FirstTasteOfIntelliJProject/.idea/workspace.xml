@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="034c3672-fbef-4271-bebf-0fddcf842d32" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/controlFlowStatements/SwitchDemo.java" afterPath="$PROJECT_DIR$/src/controlFlowStatements/SwitchDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/controlFlowStatements/BranchingDemo.java" afterPath="$PROJECT_DIR$/src/controlFlowStatements/BranchingDemo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SwitchDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SwitchDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controlFlowStatements/SwitchDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="229">
-              <caret line="71" column="44" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="71" selection-end-column="44" />
+              <caret line="71" column="44" lean-forward="true" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -34,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BranchingDemo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BranchingDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/controlFlowStatements/BranchingDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -377,18 +377,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlFlowStatements/BranchingDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/controlFlowStatements/SwitchDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        <state relative-caret-position="229">
+          <caret line="71" column="44" lean-forward="true" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlFlowStatements/SwitchDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/controlFlowStatements/BranchingDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="71" column="44" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="71" selection-end-column="44" />
+        <state relative-caret-position="240">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding />
         </state>
       </provider>

@@ -11,7 +11,6 @@ public class BranchingDemo {
             System.out.println(z);
         }catch (Exception e){
             System.out.println(e);
-            continue;
         }
 
     }
