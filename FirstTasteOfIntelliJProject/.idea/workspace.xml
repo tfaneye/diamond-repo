@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="121b3491-2a30-464f-85d3-14a9af7d74dd" name="Default" comment="added Java Operator Part2 and String Operator Part1">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FirstTasteOfIntelliJProject/controlFlowStatements/BranchingDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FirstTasteOfIntelliJProject/controlFlowStatements/LoopDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controlFlowStatements/BranchingDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controlFlowStatements/LoopDemo.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FirstTasteOfIntelliJProject/controlFlowStatements/SwitchDemo.class" afterPath="$PROJECT_DIR$/out/production/FirstTasteOfIntelliJProject/controlFlowStatements/SwitchDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FirstTasteOfIntelliJProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/production/FirstTasteOfIntelliJProject/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/controlFlowStatements/SwitchDemo.java" afterPath="$PROJECT_DIR$/src/controlFlowStatements/SwitchDemo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +61,8 @@
       <file leaf-file-name="SwitchDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/controlFlowStatements/SwitchDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="189">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -162,6 +169,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstTasteOfIntelliJProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstTasteOfIntelliJProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -170,18 +191,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.SwitchDemo">
     <configuration default="false" name="RelationalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -563,9 +572,6 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="121b3491-2a30-464f-85d3-14a9af7d74dd" name="Default" comment="" />
@@ -669,10 +675,6 @@
     </breakpoint-manager>
     <watches-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/javaOperatorsDemo/OperatorExamples.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -771,8 +773,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/controlFlowStatements/SwitchDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="189">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           <folding />
         </state>
       </provider>
