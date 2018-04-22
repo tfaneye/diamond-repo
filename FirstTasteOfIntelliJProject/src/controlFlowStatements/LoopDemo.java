@@ -3,7 +3,7 @@ package controlFlowStatements;
 public class LoopDemo {
 
     public static void main(String[] args) {
-
+/*
         //while loop example
         int num = 1;
         while(num < 10 ){
@@ -36,6 +36,24 @@ public class LoopDemo {
                 }
 
         }
+        for (int numb : numbers){
+            if (numb == 7){
+                System.out.println(numb);
+
+            }
+        }*/
+
+        //to print the number of s in mississipi
+
+        String word = "mississipis";
+        int numWord = word.length();
+        int numSs = 0;
+        for (int i = 0; i < numWord; i++){
+            if(word.charAt(i) != 's')
+                continue;
+            numSs++;
+        }
+        System.out.println("There are " + numSs + "s in " + word);
 
     }
 }
