@@ -9,6 +9,7 @@ public class RunnerMain {
 
         CreateAndWriteFile createAndWriteFile = new CreateAndWriteFile();
         createAndWriteFile.createFile();
-        createAndWriteFile.writeIntoFile();
+        //createAndWriteFile.writeIntoFile();
+        createAndWriteFile.readFile();
     }
 }
