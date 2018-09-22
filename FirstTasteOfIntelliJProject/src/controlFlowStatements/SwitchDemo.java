@@ -25,7 +25,7 @@ public class SwitchDemo {
 
         System.out.println("==================================================================");
 
-        int month = 6;
+        int month = 7;
         String particularMonth;
 
         switch (month) {
